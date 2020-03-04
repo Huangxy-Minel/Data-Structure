@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540950191 source:d:\c\数据结构\栈\main.c
+	<stdio.h>
+	<stdlib.h>
+

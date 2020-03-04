@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540024536 source:d:\c\数据结构\顺序表\main.c
+	<stdio.h>
+	<stdlib.h>
+
